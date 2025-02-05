@@ -94,7 +94,7 @@ Each LO follows this naming convention:
 - **User Registration**: When a student registers, their data is stored in the `users` table.
 - **Exam Attempt & Score Storage**:
   - The overall exam score is stored in the `student_result_subjectName_leveln` table.[ n = 1 or 2 or 3]
-  - The LO-based scores are stored in `student_result_subjectName_leveln_loi` tables.[ i = 1 or 2 or 3 or 4 or5 or 6]
+  - The LO-based scores are stored in `student_result_subjectName_leveln_loi` tables.[ i = 1 or 2 or 3 or 4 or 5 or 6]
 - **Leaderboard Calculation**:
   - A general leaderboard is created using data from `student_result_subjectName_leveln`.
   - A detailed leaderboard is generated using the **LO-based** score tables.
