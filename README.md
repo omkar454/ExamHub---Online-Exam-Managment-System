@@ -6,7 +6,7 @@ This is a **mini project** created as part of the **3rd semester** of college by
 - **User Registration & Login**: Users can register and log in to the system with their credentials.
 - **Subject Selection**: Users can choose from the following subjects:
   - Java
-  - Paradigm Computer Programming Fundamentals (PCPF)
+  - Paradigm Computer Programming Fundamentals (PCPF) or Computer Paradigm Programming Lab (CPPL)
   - Database Management System (DBMS)
   - Data Structures and Algorithms (DSA)
 - **MCQ-based Exam**: Each subject has a set of MCQs divided into three levels. Users need to clear Level 1 before proceeding to Level 2, and Level 2 before Level 3.
