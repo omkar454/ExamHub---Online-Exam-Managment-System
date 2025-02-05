@@ -24,6 +24,7 @@ The MCQ-based exam format consists of a total of 30 questions. The distribution 
 - Additionally, users can view a **detailed leaderboard**, which can be accessed to view the performance of students in each Lab Outcome (LO). This leaderboard will display scores for each LO format, providing a breakdown of how students scored in every specific Lab Outcome.
 
 - **Level Completion**: A student needs to score at least 75% in each level to clear it.
+- 
 - **Certificate Generation**: Upon clearing a level, students will receive a certificate acknowledging their achievement.
 
 ## Tech Stack:
@@ -59,6 +60,8 @@ Compile the Java files and run the Main.java file to start the application.
 The GUI will allow you to register, log in, and attempt the exam.
 
 ## Screenshots:
+**Registration From**-:
+![image](https://github.com/user-attachments/assets/350db972-9ce9-4d92-aac9-3a76ae5661cd)
 **login form**:
 ![image](https://github.com/user-attachments/assets/3e202366-6301-4d0e-89ce-4b77be383e19)
 **dashboard**:
@@ -77,8 +80,9 @@ The GUI will allow you to register, log in, and attempt the exam.
 ![image](https://github.com/user-attachments/assets/35b9ddf5-de33-4107-90e4-a00c08d6a8bc)
 ![image](https://github.com/user-attachments/assets/49166182-1b5e-4888-a2ec-ecdb90802ee9)
 **PROFILE PAGE**-:
-![image](https://github.com/user-attachments/assets/eed756b5-2840-4d73-90ff-97e23e53e994)
-
+![image](https://github.com/user-attachments/assets/eed756b5-2840-4d73-90ff-97e23e53e994) 
+**CERTIFICATE PAGE(on clearing a level)**-:
+![image](https://github.com/user-attachments/assets/eced99e0-bc09-4438-92ee-7fd80803ca9b)
 
 
 **Conclusion**:
