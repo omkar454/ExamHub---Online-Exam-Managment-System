@@ -79,5 +79,6 @@ The GUI will allow you to register, log in, and attempt the exam.
 **PROFILE PAGE**-:
 ![image](https://github.com/user-attachments/assets/eed756b5-2840-4d73-90ff-97e23e53e994)
 
+
 **Conclusion**:
 This project serves as a basic replica of an online exam interface and aims to provide an interactive platform for students to attempt exams and track their performance. The inclusion of multiple levels and a leaderboard adds a competitive edge to the exam-taking experience.
