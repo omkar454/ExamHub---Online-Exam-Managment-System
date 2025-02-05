@@ -1,6 +1,6 @@
 # ExamHub - Online Exam Management System (Mini Project)
 
-This is a mini project created as part of the 3rd semester of college by a group of 4 classmates-: **Rishi Notani** , **Suhani Poptani**, **Sonal Sharma**, **Omkar Raut**. The project aims to create an online exam platform with a Multiple Choice Question (MCQ) format, similar to JEE/CET level exams. The project is developed using **Java**, **AWT & Swing** for the frontend, **MySQL** for the backend, and **JDBC** for database interaction.
+This is a **mini project** created as part of the **3rd semester** of college by a group of 4 classmates-: **Rishi Notani** , **Suhani Poptani**, **Sonal Sharma**, **Omkar Raut**. The project aims to create an online exam platform with a Multiple Choice Question (MCQ) format, similar to JEE/CET level exams. The project is developed using **Java**, **AWT & Swing** for the frontend, **MySQL** for the backend, and **JDBC** for database interaction.
 
 ## Features:
 - **User Registration & Login**: Users can register and log in to the system with their credentials.
@@ -58,7 +58,7 @@ Set up the JDBC connection in the config file with your MySQL database credentia
 Compile the Java files and run the Main.java file to start the application.
 The GUI will allow you to register, log in, and attempt the exam.
 
-## Scrrenshots:
+## Screenshots:
 **login form**:
 ![image](https://github.com/user-attachments/assets/3e202366-6301-4d0e-89ce-4b77be383e19)
 **dashboard**:
