@@ -57,6 +57,8 @@ Set up the JDBC connection in the config file with your MySQL database credentia
 4. **Running the Application**-:
 
 Compile the Java files and run the **ExamHubLoginForm.java** file to start the application.
+
+
 The graphical user interface (GUI) will provide users with the ability to register, log in, and attempt exams. Additionally, users can view the leaderboard for a specific exam and receive a certificate upon successfully clearing a designated level of an exam in a particular subject.
 
 ## Screenshots:
