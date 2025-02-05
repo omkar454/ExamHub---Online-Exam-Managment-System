@@ -21,7 +21,7 @@ CREATE TABLE `users` (
   UNIQUE KEY `username` (`username`),
   UNIQUE KEY `unique_profile_image` (`profile_image`(3072)),
   CONSTRAINT `chk_password_length` CHECK ((length(`password`) between 4 and 8))
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+);
 ```
 
 #### **Explanation:**
@@ -45,7 +45,7 @@ CREATE TABLE `student_result_java_level3` (
   `exam_name` varchar(10) NOT NULL,
   `level` int NOT NULL,
   PRIMARY KEY (`Roll_number`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+);
 ```
 
 #### **Explanation:**
@@ -73,7 +73,7 @@ CREATE TABLE `student_result_java_level3_lo6` (
   `exam_name` varchar(10) NOT NULL,
   `level` int NOT NULL,
   PRIMARY KEY (`Roll_number`)
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+);
 ```
 
 #### **Explanation:**
@@ -93,8 +93,8 @@ Each LO follows this naming convention:
 ## Backend Logic Flow
 - **User Registration**: When a student registers, their data is stored in the `users` table.
 - **Exam Attempt & Score Storage**:
-  - The overall exam score is stored in the `student_result_subjectName_leveln` table.
-  - The LO-based scores are stored in `student_result_subjectName_leveln_loi` tables.
+  - The overall exam score is stored in the `student_result_subjectName_leveln` table.[ n = 1 or 2 or 3]
+  - The LO-based scores are stored in `student_result_subjectName_leveln_loi` tables.[ i = 1 or 2 or 3 or 4 or5 or 6]
 - **Leaderboard Calculation**:
   - A general leaderboard is created using data from `student_result_subjectName_leveln`.
   - A detailed leaderboard is generated using the **LO-based** score tables.
