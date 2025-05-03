@@ -2,6 +2,12 @@
 
 This is a **mini project** created as part of the **3rd semester** of college by a group of 4 classmates-: **Rishi Notani** , **Suhani Poptani**, **Sonal Sharma**, **Omkar Raut**. The project aims to create an online exam platform with a Multiple Choice Question (MCQ) format, similar to JEE/CET level exams. The project is developed using **Java**, **AWT & Swing** for the frontend, **MySQL** for the backend, and **JDBC**(Java Data-base Connectivity) for database interaction.
 
+## Team Members:
+- [Omkar Raut's GitHub](https://github.com/omkar454)
+- [Rishi Notani's GitHub](https://github.com/Rishinotani99)
+- [Suhani Poptani's GitHub](https://github.com/suhanip152)
+- [Sonal Sharma's GitHub](https://github.com/SonalUsername)
+
 ## Features:
 - **User Registration & Login**: Users can register and log in to the system with their credentials.
 - **Subject Selection**: Users can choose from the following subjects:
@@ -32,11 +38,7 @@ The MCQ-based exam format consists of a total of 30 questions. The distribution 
 - **Backend**: MySQL
 - **Database Interaction**: JDBC
 
-## Team Members:
-- [Omkar Raut's GitHub](https://github.com/omkar454)
-- [Rishi Notani's GitHub](https://github.com/Rishinotani99)
-- [Suhani Poptani's GitHub](https://github.com/suhanip152)
-- [Sonal Sharma's GitHub](https://github.com/SonalUsername)
+
 
 ## Installation and Setup:
 
