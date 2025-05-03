@@ -34,7 +34,7 @@ The MCQ-based exam format consists of a total of 30 questions. The distribution 
 
 ## Team Members:
 - [Omkar Raut's GitHub](https://github.com/omkar454)
-- [Rishi Notani's GitHub](https://github.com/RishiUsername)
+- [Rishi Notani's GitHub](https://github.com/Rishinotani99)
 - [Suhani Poptani's GitHub](https://github.com/suhanip152)
 - [Sonal Sharma's GitHub](https://github.com/SonalUsername)
 
