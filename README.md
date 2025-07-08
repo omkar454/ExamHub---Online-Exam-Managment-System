@@ -6,7 +6,7 @@ This is a **mini project** created as part of the **3rd semester** of college by
 - [Omkar Raut's GitHub](https://github.com/omkar454)
 - [Rishi Notani's GitHub](https://github.com/Rishinotani99)
 - [Suhani Poptani's GitHub](https://github.com/suhanip152)
-- [Sonal Sharma's GitHub](https://github.com/SonalUsername)
+- [Sonal Sharma's GitHub](https://github.com/Sonal-Sharma28)
 
 ## Features:
 - **User Registration & Login**: Users can register and log in to the system with their credentials.
